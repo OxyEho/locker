@@ -1,0 +1,12 @@
+Expected tasks:  10
+Actual tasks:  10
+PID 14474 Succseed locks: 24
+PID 14477 Succseed locks: 35
+PID 14475 Succseed locks: 29
+PID 14482 Succseed locks: 28
+PID 14480 Succseed locks: 40
+PID 14478 Succseed locks: 35
+PID 14481 Succseed locks: 39
+PID 14476 Succseed locks: 26
+PID 14483 Succseed locks: 23
+PID 14479 Succseed locks: 20
